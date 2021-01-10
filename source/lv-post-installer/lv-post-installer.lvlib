@@ -35,10 +35,9 @@
 	<Property Name="Use Data Logging Database" Type="Bool">true</Property>
 	<Item Name="private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		<Item Name="_controls" Type="Folder">
-			<Item Name="fg_command.ctl" Type="VI" URL="../private/_controls/fg_command.ctl"/>
-		</Item>
+		<Item Name="_controls" Type="Folder"/>
 		<Item Name="_globals" Type="Folder">
+			<Item Name="fg_download_location.vi" Type="VI" URL="../private/_globals/fg_download_location.vi"/>
 			<Item Name="fg_installer_location.vi" Type="VI" URL="../private/_globals/fg_installer_location.vi"/>
 			<Item Name="fg_temp_dir_config.vi" Type="VI" URL="../private/_globals/fg_temp_dir_config.vi"/>
 		</Item>
@@ -64,6 +63,7 @@
 			<Item Name="lv-post-installer.lvclass" Type="LVClass" URL="../public/classes/lv-post-installer/lv-post-installer.lvclass"/>
 			<Item Name="lv-post-installer_cube_drop.vi" Type="VI" URL="../public/classes/lv-post-installer_cube_drop.vi"/>
 		</Item>
+		<Item Name="add_download_location.vi" Type="VI" URL="../public/add_download_location.vi"/>
 		<Item Name="add_installer_location.vi" Type="VI" URL="../public/add_installer_location.vi"/>
 		<Item Name="get_installer_locations.vi" Type="VI" URL="../public/get_installer_locations.vi"/>
 		<Item Name="load_class.vi" Type="VI" URL="../public/load_class.vi"/>

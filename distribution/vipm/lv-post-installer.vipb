@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2020-07-07 23:56:00" Modified_Date="2021-01-06 21:36:19" Creator="noobius" Comments="" ID="5b47c0733dd674f0eb38a01e0ca9d019">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2020-07-07 23:56:00" Modified_Date="2021-01-10 16:52:17" Creator="noobius" Comments="" ID="12733c7c43bf5bc71e5b9f76e61a34f4">
   <Library_General_Settings>
     <Package_File_Name>antonio_alexander_lib_lv_post_installer</Package_File_Name>
-    <Library_Version>0.9.1.5</Library_Version>
+    <Library_Version>0.10.0.1</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\working\lv-post-installer</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -210,7 +210,7 @@
         <Path>..\working\lv-post-installer\public</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CC9A3277E08999C80211432BBCD3D2D6</GUID>
+      <GUID>F4E593ED09D861C153132EC00552F9AC</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -329,7 +329,7 @@
         <Path>..\working\lv-post-installer\public\temp_directory_delete.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E0E7FA72359944EAA237DCBC0A7698B9</GUID>
+      <GUID>4C834B8AB9711160C33B1EF5179B9C70</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -406,7 +406,7 @@
         <Path>..\working\lv-post-installer\public\advanced\load_class-single.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2EF8ADCC95AA97D690D51D2F738AAAF8</GUID>
+      <GUID>EB832558119D9B6C8469FCFB494DDB02</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -469,7 +469,7 @@
         <Path>..\working\lv-post-installer\public\classes\lv-post-installer-test_cube_drop.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2AFF36DF219E5703A37861C8BF35178A</GUID>
+      <GUID>3932092E1806B233C520C410428B13DE</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -672,7 +672,7 @@
         <Path>..\working\lv-post-installer\public\classes\lv-post-installer\verify.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0D0E80F3968ADC5FA04EE4075751C8F8</GUID>
+      <GUID>FB133333E0A26B007953F38BFC1906B2</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -861,7 +861,7 @@
         <Path>..\working\lv-post-installer\public\classes\lv-post-intaller-test\verify.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A30FD00ADF34B3FF3A7A9D063526F648</GUID>
+      <GUID>AAFF6F6E057125A918733C5831E826CD</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -882,7 +882,7 @@
         <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
         <Synchronize_Directory_Path>..</Synchronize_Directory_Path>
       </Synchronization_Info>
-      <GUID>A2ABDAEA0BD0E0E2625FDC9319690FF9</GUID>
+      <GUID>7974E00C593E3CF5E0153276417E826E</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
