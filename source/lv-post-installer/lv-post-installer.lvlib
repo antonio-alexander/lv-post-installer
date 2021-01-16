@@ -38,7 +38,6 @@
 		<Item Name="_controls" Type="Folder"/>
 		<Item Name="_globals" Type="Folder">
 			<Item Name="fg_download_location.vi" Type="VI" URL="../private/_globals/fg_download_location.vi"/>
-			<Item Name="fg_installer_location.vi" Type="VI" URL="../private/_globals/fg_installer_location.vi"/>
 			<Item Name="fg_temp_dir_config.vi" Type="VI" URL="../private/_globals/fg_temp_dir_config.vi"/>
 		</Item>
 		<Item Name="_subvis" Type="Folder"/>
@@ -65,6 +64,7 @@
 		</Item>
 		<Item Name="add_download_location.vi" Type="VI" URL="../public/add_download_location.vi"/>
 		<Item Name="add_installer_location.vi" Type="VI" URL="../public/add_installer_location.vi"/>
+		<Item Name="get_download_location.vi" Type="VI" URL="../public/get_download_location.vi"/>
 		<Item Name="get_installer_locations.vi" Type="VI" URL="../public/get_installer_locations.vi"/>
 		<Item Name="load_class.vi" Type="VI" URL="../public/load_class.vi"/>
 		<Item Name="temp_dir_generate.vi" Type="VI" URL="../public/temp_dir_generate.vi"/>

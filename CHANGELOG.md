@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Migrated from lv-distribution to lv-distribution-build
 - Simplified functional globals by removing private command
 - Added ability to set download location
+- Broke the API when introducing the fg_download_location.vi, deprecated get_installer_locations and all vis associated wih add_installer_location.
 
 ## [0.9.0] - 2020-05-20
 
