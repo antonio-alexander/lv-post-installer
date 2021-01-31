@@ -56,7 +56,7 @@
 			<Item Name="load_class-multiple.vi" Type="VI" URL="../public/advanced/load_class-multiple.vi"/>
 			<Item Name="load_class-single.vi" Type="VI" URL="../public/advanced/load_class-single.vi"/>
 		</Item>
-		<Item Name="classes" Type="Folder">
+		<Item Name="class" Type="Folder">
 			<Item Name="lv-post-installer-test.lvclass" Type="LVClass" URL="../public/classes/lv-post-intaller-test/lv-post-installer-test.lvclass"/>
 			<Item Name="lv-post-installer-test_cube_drop.vi" Type="VI" URL="../public/classes/lv-post-installer-test_cube_drop.vi"/>
 			<Item Name="lv-post-installer.lvclass" Type="LVClass" URL="../public/classes/lv-post-installer/lv-post-installer.lvclass"/>
