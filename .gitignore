@@ -10,6 +10,8 @@
 
 # Executables
 *.exe
+!source/data/bin/.gitkeep
+source/data/bin
 
 # Metadata
 *.aliases
@@ -17,8 +19,12 @@
 .cache/
 
 # Deplyoment binaries/files
-distribution/vipm/*.vip
+!build/.gitkeep
+!distribution/working/.gitkeep
+!distribution/archive/.gitkeep
+distribution/vipm/*
+distribution/archive/*
 distribution/working/*
 build
 source/data/bin/*.*
-source/lv-builder*.json
+

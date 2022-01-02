@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2020-07-07 23:56:00" Modified_Date="2021-02-20 20:25:53" Creator="noobius" Comments="" ID="74f5e283ac9228ef1c9505361315fa51">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2020-07-07 23:56:00" Modified_Date="2021-04-24 00:36:22" Creator="noobius" Comments="" ID="186f8e1c6b98267fe15d49ba69529a31">
   <Library_General_Settings>
     <Package_File_Name>antonio_alexander_lib_lv_post_installer</Package_File_Name>
-    <Library_Version>1.0.0.4</Library_Version>
+    <Library_Version>1.0.0.5</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\working\lv-post-installer</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -300,7 +300,7 @@
         <Path>..\working\lv-post-installer\lv-post-installer\public\load_class.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>635D094E277FE475B80AB54BF29B745B</GUID>
+      <GUID>6CDB8A27E8FAB5FFB06F71C5179D4A2D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -531,7 +531,7 @@
         <Path>..\working\lv-post-installer\lv-post-installer\public\classes\lv-post-installer_cube_drop.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>73189639F5E5247E7345184F064A19C6</GUID>
+      <GUID>B1C9AC780F94E5D4C3B3BCE2EDFEB9FC</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -580,7 +580,7 @@
         <Path>..\working\lv-post-installer\lv-post-installer-interface\examples</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0DEB1881C69D17AF94AFDEDB75D77CF6</GUID>
+      <GUID>6EAE06D2ED5D1013F4829FF549CBD184</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -615,7 +615,7 @@
         <Path>..\working\lv-post-installer\lv-post-installer-interface\examples\example_01_test.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>887AD47D46663E683611F020F651BAC4</GUID>
+      <GUID>B745CB0A04571F71A6E698BFD966E2D1</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -650,7 +650,7 @@
         <Path>..\working\lv-post-installer\lv-post-installer\public\_controls\temp_dir_config.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BCA99E20820D0A785C86C888C3EB2F89</GUID>
+      <GUID>8B3DF323840032E3E319E96EE8393B5B</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>

@@ -8,7 +8,7 @@
 
 </Property>
 	<Item Name="examples" Type="Folder">
-		<Item Name="example_01_test.vi" Type="VI" URL="../examples/example_01_test.vi"/>
+		<Item Name="example_01_implementation.vi" Type="VI" URL="../examples/example_01_implementation.vi"/>
 	</Item>
 	<Item Name="private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
